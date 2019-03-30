@@ -1,0 +1,7 @@
+Node.js 台灣社群協作電子書
+https://www.gitbook.com/book/y2468101216/node-wiki-book/details
+
+授權
+Node.js 台灣社群協作電子書
+採用創用CC姓名標示-非商業性授權。
+您不必為本書付費。

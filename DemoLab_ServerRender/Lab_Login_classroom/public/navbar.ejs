@@ -1,0 +1,9 @@
+                <ul>
+                    <li><a data-ajax="false" href="index.ejs" data-icon="home" data-theme="b">Home</a></li>
+                    <% if ( request.session.userName ) { %>
+                    <li><a data-ajax="false" href="login.ejs?signout=1" data-icon="star" data-theme="b">Sign out</a></li>
+                    <% } else { %>
+                    <li><a data-ajax="false" href="login.ejs" data-icon="star" data-theme="b">Login</a></li>
+                    <% } %>
+                    <li><a href="member.ejs" data-icon="gear" data-theme="b">MemberOnly</a></li>
+                </ul>

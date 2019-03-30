@@ -1,0 +1,44 @@
+Demo 備忘:
+
+
+1.  Window | New Terminal，輸入下列指令以安裝/更新
+    本程式所需的模組:
+
+npm install express
+npm install body-parser
+npm install express-session
+npm install ejs
+
+
+2. 以編輯器開啟 Lab_Login_Begin/app.js
+
+
+3. 確認 app.js 是最上層文件，點按功能表的「Run」以執行程式。
+
+
+4. 在瀏覽器連接 http://<workspaceName>-<accoutName>.c9users.io
+    例如: http://njs-wchien.c9users.io/design
+
+    <Note>
+    正常的話，看到的應該是 public/index.html 
+    目前，動線規畫與美術設計均已完成，
+    準備移交給後端工程師代入程式
+
+
+5.  點按「Stop」結束 app.js，建議將 app.js 編輯頁籤也關掉
+
+
+6.  以編輯器開啟 Lab_Login_OK/app.js
+
+
+7. 確認 app.js 是最上層文件，點按功能表的「Run」以執行程式。
+
+
+8. 在瀏覽器連接 http://<workspaceName>-<accoutName>.c9users.io
+    例如: http://njs-wchien.c9users.io
+
+    <Note>
+    正常的話，看到的應該是後端工程師完工後的系統。
+
+
+9.  說明系統架構與程式寫法

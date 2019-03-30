@@ -1,0 +1,10 @@
+https://www.npmjs.com/
+npm -v
+npm install express
+npm install -g express
+npm list
+npm show express
+npm update
+npm update express
+npm uninstall express
+package.json
